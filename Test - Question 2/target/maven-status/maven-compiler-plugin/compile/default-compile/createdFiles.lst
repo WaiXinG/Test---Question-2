@@ -1,0 +1,7 @@
+com\assessment\klsestock\quartz\config\SchedulerJobFactory.class
+com\assessment\klsestock\dao\IKlseStockRepo.class
+com\assessment\klsestock\KlseStockApplication.class
+com\assessment\klsestock\quartz\job\SaveLatestKlseStockQuartzJob.class
+com\assessment\klsestock\service\KlseStockService.class
+com\assessment\klsestock\entity\KlseStock.class
+com\assessment\klsestock\quartz\config\QuartzJobConfig.class

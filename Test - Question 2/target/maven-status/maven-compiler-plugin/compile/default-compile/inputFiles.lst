@@ -1,0 +1,7 @@
+C:\Users\waixing_innov8tif\Desktop\Test - Question 2\src\main\java\com\assessment\klsestock\KlseStockApplication.java
+C:\Users\waixing_innov8tif\Desktop\Test - Question 2\src\main\java\com\assessment\klsestock\quartz\job\SaveLatestKlseStockQuartzJob.java
+C:\Users\waixing_innov8tif\Desktop\Test - Question 2\src\main\java\com\assessment\klsestock\entity\KlseStock.java
+C:\Users\waixing_innov8tif\Desktop\Test - Question 2\src\main\java\com\assessment\klsestock\quartz\config\QuartzJobConfig.java
+C:\Users\waixing_innov8tif\Desktop\Test - Question 2\src\main\java\com\assessment\klsestock\service\KlseStockService.java
+C:\Users\waixing_innov8tif\Desktop\Test - Question 2\src\main\java\com\assessment\klsestock\dao\IKlseStockRepo.java
+C:\Users\waixing_innov8tif\Desktop\Test - Question 2\src\main\java\com\assessment\klsestock\quartz\config\SchedulerJobFactory.java
